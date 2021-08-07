@@ -1,0 +1,105 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    border: 3px dashed darkgrey;
+    margin: 40px;
+    padding: 20px;
+}
+
+.container-color {
+    width: 100%;
+    text-align: center;
+}
+
+.color-box {
+    display: inline-block;
+    margin: 10px;
+    min-height: 150px;
+    width: 45%;
+    text-align: center;
+}
+
+.color-name {
+    margin-top: 40px;
+}
+
+.dark-purple {
+    background-color: #341A04;
+    color: #FFFFFF;
+}
+
+.lime-green {
+    background-color: #F2FF00;
+    color: #000000;
+}
+
+.turquoise {
+    background-color: #30D5C8;
+    color: #FFFFFF;
+}
+
+.royal-fuchsia {
+    background-color: #CA2C92;
+    color: #FFFFFF;
+}
+
+.orange {
+    background-color: #FF8000;
+    color: #FFFFFF;
+}
+
+.olive-green {
+    background-color: #BED742;
+    color: #FFFFFF;
+}
+
+.container-fonts {
+    width: 100%;
+    text-align: center;
+}
+
+.font-box {
+    display: inline-block;
+    width: 45%;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.oxygen {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 18px;
+}
+
+.fira-sans {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+}
+
+.cormorant-garamond {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 18px;
+}
